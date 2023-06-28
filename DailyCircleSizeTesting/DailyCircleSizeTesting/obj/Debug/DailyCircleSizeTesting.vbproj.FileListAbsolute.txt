@@ -1,0 +1,13 @@
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.Resources.resources
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.vbproj.GenerateResource.cache
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.vbproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\bin\Debug\DailyCircleSizeTesting.exe.config
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\bin\Debug\DailyCircleSizeTesting.exe
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\bin\Debug\DailyCircleSizeTesting.pdb
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\bin\Debug\DailyCircleSizeTesting.xml
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.Form1.resources
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.exe
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.xml
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.pdb
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.JamForm.resources
+C:\Users\gamer\source\repos\DailyCircleSizeTesting\DailyCircleSizeTesting\obj\Debug\DailyCircleSizeTesting.FinishedForm.resources

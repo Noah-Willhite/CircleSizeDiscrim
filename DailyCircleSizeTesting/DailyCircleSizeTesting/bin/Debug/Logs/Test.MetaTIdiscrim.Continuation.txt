@@ -1,0 +1,34 @@
+CircleLocationArrayCounter
+3
+DifficultyArrayCounter
+0
+MetaDifficultyArrayCounter
+3
+Number Trials
+3
+NumberSessions
+0
+Number Accepted
+2
+Number Declined
+1
+ConsecutiveSessions
+0
+NumberSessions
+0
+Phase
+4
+ITI
+500
+DeclineBarTouchCriterion
+2
+RejectTouchCriterion
+2
+AcceptTouchCriterion
+2
+AutoRun
+2
+TotalTrialNumber
+3
+TotalSessionNumber
+0

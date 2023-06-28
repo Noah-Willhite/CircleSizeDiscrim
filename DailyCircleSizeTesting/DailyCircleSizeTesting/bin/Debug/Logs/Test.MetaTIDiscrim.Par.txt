@@ -1,0 +1,10 @@
+0	EasyHardDifficultyCriterion
+0	EasyCircleCriterion
+1	OverDeclineCrit
+0	UnderDeclineCrit
+2	RewardRatio
+2	DeclineBarTouchCriterion
+2	AcceptTouchCriterion
+2	RejectTouchCriterion
+50	ITIDecreaseStep
+50	ITIIncreaseStep
